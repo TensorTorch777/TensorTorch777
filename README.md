@@ -136,17 +136,26 @@
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ FleetMinds — Military Predictive Maintenance
-**LSTM-Based Failure Prediction**
+<div style="border: 2px solid #7C3AED; border-radius: 14px; padding: 18px; background: linear-gradient(135deg, #1a1033 0%, #0d1b2a 100%); box-shadow: 0 0 24px rgba(124, 58, 237, 0.35);">
 
-- Trained on NASA C-MAPSS dataset
-- Multi-sensor time-series modeling
-- Deployed for defense analytics context
+![Featured](https://img.shields.io/badge/🏆_INDUSTRY--GRADE-FLAGSHIP-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white)
+
+### 📄 DocIntel
+**GenAI Document Intelligence for Technical PDFs**
+
+- Hybrid RAG: **HNSW + BM25 + cross-encoder reranking**
+- Evidence gating, definition pinning & answer verification
+- Production stack: **FastAPI + Next.js 14** · Ollama / Qwen2.5
+- Built for manuals, specs & engineering references at scale
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![RAG](https://img.shields.io/badge/Hybrid_RAG-7C3AED?style=flat-square)
 
-[→ View Repo](https://github.com/TensorTorch777/FLEET-MINDS-Military-Predictive-Maintenance-System)
+**[→ View Repo](https://github.com/TensorTorch777/DocIntel)**
+
+</div>
 
 </td>
 </tr>
