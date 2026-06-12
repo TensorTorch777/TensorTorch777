@@ -28,18 +28,22 @@
 
 ## 🧠 About Me
 
-```python
-nimish = {
-    "role":       "Final-Year ECE @ K.J. Somaiya College of Engineering, Mumbai",
-    "minor":      "AI @ IIT Ropar (Nov 2024 – Feb 2026)",
-    "research":   "Hybrid CNN-ViT for Skin Disease Classification",
-    "published":  "Neural Computing & Applications — Springer Nature, 2025",
-    "internship": "Defense AI & Satellite Imagery @ Aminuteman Technologies",
-    "hardware":   "RTX 5080 + i9-14900K",
-    "focus":      ["Computer Vision", "LLM Engineering", "MLOps", "RAG Systems"],
-    "target":     "MS in Germany — Summer 2028",
-}
-```
+<div align="left">
+
+**ML Engineer** building production-grade CV, LLM, and MLOps systems.
+
+| | |
+|:---|:---|
+| 🎓 **Education** | Final-Year ECE @ K.J. Somaiya College of Engineering, Mumbai |
+| 🤖 **Minor** | AI @ IIT Ropar *(Nov 2024 – Feb 2026)* |
+| 🔬 **Research** | Hybrid CNN-ViT for Skin Disease Classification |
+| 📄 **Published** | Neural Computing & Applications — Springer Nature, 2025 |
+| 🛡️ **Internship** | Defense AI & Satellite Imagery @ Aminuteman Technologies |
+| 🖥️ **Hardware** | RTX 5080 + i9-14900K |
+| 🎯 **Focus** | Computer Vision · LLM Engineering · MLOps · RAG Systems |
+| 🇩🇪 **Goal** | MS in Germany — Summer 2028 |
+
+</div>
 
 ---
 
