@@ -86,56 +86,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 HypeVault
-**AI-Gated Authentication for Sneakers & Watches**
-
-- DINOv2-Giant fine-tuned on 60K images
-- TensorRT FP16 + NVIDIA Triton Inference Server
-- **Sub-200ms P50 latency** on AWS EC2/ECS/S3
-- B.Tech Final Year Project
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-[→ View Repo](https://github.com/TensorTorch777/HypeVault)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 MediCall AI Receptionist
-**Voice Agent for Hospital Patient Management**
-
-- Llama-3-8B via Groq — **sub-500ms latency**
-- Handles appointments, records to Google Sheets
-- Deployed via FastAPI + TypeScript frontend
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-
-[→ View Repo](https://github.com/TensorTorch777/MediCall_AI_Receptionist)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 NotesQuest
-**RAG Microservice for Engineering Documents**
-
-- Qwen2.5-7B backbone
-- **88% top-5 recall** on retrieval benchmarks
-- LangChain + vector store pipeline
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-[→ View Repo](https://github.com/TensorTorch777/NotesQuest)
-
-</td>
-<td width="50%" valign="top">
-
 <div style="border: 2px solid #7C3AED; border-radius: 14px; padding: 18px; background: linear-gradient(135deg, #1a1033 0%, #0d1b2a 100%); box-shadow: 0 0 24px rgba(124, 58, 237, 0.35);">
 
 ![Featured](https://img.shields.io/badge/🏆_INDUSTRY--GRADE-FLAGSHIP-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white)
@@ -156,6 +106,56 @@
 **[→ View Repo](https://github.com/TensorTorch777/DocIntel)**
 
 </div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 HypeVault
+**AI-Gated Authentication for Sneakers & Watches**
+
+- DINOv2-Giant fine-tuned on 60K images
+- TensorRT FP16 + NVIDIA Triton Inference Server
+- **Sub-200ms P50 latency** on AWS EC2/ECS/S3
+- B.Tech Final Year Project
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+[→ View Repo](https://github.com/TensorTorch777/HypeVault)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 MediCall AI Receptionist
+**Voice Agent for Hospital Patient Management**
+
+- Llama-3-8B via Groq — **sub-500ms latency**
+- Handles appointments, records to Google Sheets
+- Deployed via FastAPI + TypeScript frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+[→ View Repo](https://github.com/TensorTorch777/MediCall_AI_Receptionist)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 NotesQuest
+**RAG Microservice for Engineering Documents**
+
+- Qwen2.5-7B backbone
+- **88% top-5 recall** on retrieval benchmarks
+- LangChain + vector store pipeline
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+[→ View Repo](https://github.com/TensorTorch777/NotesQuest)
 
 </td>
 </tr>
